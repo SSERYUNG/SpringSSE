@@ -8,10 +8,7 @@
 </head>
 <body>
 
-	<h1>SERYUNG & HAERIN PAGE</h1>
-	<a href="/student/list">학생 리스트</a>
-	<a href="/weather/list">날씨 리스트</a>
-
+	<h1>${requestScope.message}</h1>
 
 </body>
 </html>
